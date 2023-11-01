@@ -1,5 +1,4 @@
-
-Cat and Dog Image Classifier Using Deep Learning
+# Cat and Dog Image Classifier Using Deep Learning
 
 Description: 
 
