@@ -1,6 +1,6 @@
 # Cat and Dog Image Classifier Using Deep Learning
 
-Description: 
+** Description: **
 
 Developed a deep learning model to classify images of cats and dogs with high accuracy. The project aimed to leverage the power of deep neural networks to distinguish between cats and dogs in images, contributing to the field of image classification.
 
